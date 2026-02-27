@@ -1,73 +1,48 @@
-# Welcome to your Lovable project
+# Yash's Personal Portfolio 🚀
 
-## Project info
+> Interactive, React-based personal portfolio and resume outlining skills, projects, and academic background.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## 🌟 Overview
 
-## How can I edit this code?
+This repository contains the source code for my interactive personal portfolio. Built to highlight my software engineering projects, technical skills, and academic pursuits, this application serves as the digital representation of my resume.
 
-There are several ways of editing your application.
+## ✨ Key Features
+- **Responsive Design**: Fully adaptable layout for seamless viewing on mobile, tablet, and desktop devices.
+- **Projects Showcase**: A dedicated section to display my open-source contributions, academic projects, and software engineering work.
+- **Modern UI Components**: Utilizes modern styling (Shadcn UI, Tailwind) to create a stunning, professional aesthetic.
+- **Interactive Elements**: Smooth animations and dynamic routing for a better user experience.
 
-**Use Lovable**
+## 🛠️ Technology Stack
+- **Frontend Framework**: React / Vite
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS & Vanilla CSS (for custom animations)
+- **UI Components**: Shadcn UI / Radix UI 
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 🚀 Getting Started
 
-Changes made via Lovable will be committed automatically to this repo.
+To run this portfolio locally on your machine, follow these steps:
 
-**Use your preferred IDE**
+### Prerequisites
+Make sure you have Node.js and a package manager (`npm`, `yarn`, or `pnpm`) installed.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Installation & Run
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/MRYASHYT/pure-resume.git
+   cd pure-resume
+   ```
 
-Follow these steps:
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+3. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
+4. Open your browser and navigate to `http://localhost:8080` (or the port specified in your terminal).
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 📄 License
+This project is open-sourced under the MIT License.
